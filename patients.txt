@@ -1,0 +1,16 @@
+Name: F
+Age: 50
+Type: Regular Patient
+---
+Name: agh
+Age: 87
+Type: Regular Patient
+---
+Name: op
+Age: 65
+Type: Emergency Patient
+---
+Name: Ahazz
+Age: 21
+Type: Regular Patient
+---
